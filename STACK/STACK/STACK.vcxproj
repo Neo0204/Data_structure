@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{71227885-147C-49C6-B942-0485DC06C7D9}</ProjectGuid>
+    <ProjectGuid>{41DB92CE-1AE7-4334-8A47-3E300F7E95DA}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>PolynomialOperation</RootNamespace>
+    <RootNamespace>STACK</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -146,11 +146,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="poly_terms.h" />
+    <ClCompile Include="stack.c" />
+    <ClCompile Include="test_stack.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="polynomialterm.c" />
-    <ClCompile Include="test_polynomialterm.c" />
+    <ClInclude Include="stack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

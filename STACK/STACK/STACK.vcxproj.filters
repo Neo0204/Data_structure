@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="poly_terms.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
+    <ClCompile Include="stack.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test_stack.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="polynomialterm.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="test_polynomialterm.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
+    <ClInclude Include="stack.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

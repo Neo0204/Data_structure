@@ -22,8 +22,7 @@ int finishA, startB, finishB;
 
 int startD, finishD;
 
-void attach( float exponent, float coefficient);
 
-
-
+void padd(int startA, int finishA, int startB, int finishB, int *startD, int *finishD);
+void attach(float exponent, float coefficient);
 #endif // !1

@@ -1,4 +1,4 @@
-#include "polynomialadd.h"
+#include "poly_terms.h"
 
 void padd(int startA, int finishA,int startB,int finishB, int* startD, int* finishD)
 {

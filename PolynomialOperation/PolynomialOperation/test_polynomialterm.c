@@ -1,4 +1,4 @@
-#include "polynomialadd.h"
+#include "poly_terms.h"
 
 int main()
 {
