@@ -11,5 +11,5 @@ There are header file(.h) and function file(functionName.c) test file(Test_blahb
 Header have
 
 * Polynomial_ADD
-* ...
+* STACK
 * ...
