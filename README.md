@@ -5,10 +5,21 @@ There are so many subjects such as stack,queue,tree,graph,sort and hash by C
 
 Every Folder is independent and it's name is subject name.
 
-There are header file(.h) and function file(functionName.c) test file(Test_blahblahblah.c)
+Each folder consists of one header file(.h) and two code files(.c).
+
+There is a header file(.h) which define and declare header guard, variant, function.
+And one of the code file(f.c) write function module.
+Another code file is that test file(test_blahblahblah.c) has main function.
 
 
-Header have
+
+If you have any questions, please do not hesitate to contact me
+  dk99521@navere.com
+
+Thank your consideration.
+
+SUBJECT FOLDER LIST
+
 
 * Polynomial_ADD
 * STACK
