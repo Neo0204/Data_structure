@@ -14,7 +14,9 @@ Another code file is that test file(test_blahblahblah.c) has main function.
 
 
 If you have any questions, please do not hesitate to contact me
-  dk99521@navere.com
+
+
+dk99521@naver.com
 
 Thank your consideration.
 
