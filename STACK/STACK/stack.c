@@ -22,7 +22,7 @@ int pop()
 }
 void push(int new_data)
 {
-	if (top == MAX_STACK_SIZE)
+	if (top == MAX_STACK_SIZE - 1)
 		isFull();
 	stack[++top] = new_data;
 	
