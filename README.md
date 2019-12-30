@@ -26,4 +26,6 @@ SUBJECT FOLDER LIST
 * Polynomial_ADD
 * STACK
 * StackOfMalloc
-* ...
+* QUEUE
+* QueueOfMalloc
+* CircleQueue
