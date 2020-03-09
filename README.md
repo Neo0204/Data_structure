@@ -42,5 +42,5 @@ SUBJECT FOLDER LIST
 7. PostFix_cal_byStack
 8. PostFix_Calulation_By_Stack_2
 9. From_Infix_To_PostFix
-10. SingleList
+10. SingleList- insert,delete,reversePrint,concat
 
